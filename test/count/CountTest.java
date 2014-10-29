@@ -1,4 +1,4 @@
-package test.count;
+package count;
 
 import static org.junit.Assert.*;
 
